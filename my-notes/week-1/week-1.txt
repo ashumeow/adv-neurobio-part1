@@ -11,3 +11,24 @@ To describe relative spatial relationships of specific structures and cavities.
 Note: They are different from medialis and lateralis.
 (6) Superficial and Deep
 According to body surface, proximal part is superficial and distal part is deep.
+
+Central Nervous System (CNS)
+-- Composed of brain, spinal cord and spinal nerves
+
+Brain
+- Telencephalon (outer bigger part including cortex)
+- Diencephalon (the middle part)
+- Cerebellum (present behind brain stem i.e. behind bottom of brain)
+- Brain Stem (provides the continuity towards the spinal cord)
+
+Blood Brain Barrier (BBB)
+- BBB is highly selective permeability barrier that separates circulating blood from brain extracellular fluid in CNS.
+- It is formed by capillary endothelial cells which are connected by tight junctions.
+- It allows passage of water, some gases and lipid soluble molecules by passive diffusion as well as selective transport of molecules such as,
+glucose and amino acids that are crucial to neural function.
+- It may prevent the entry of lipophilic, potential neurotoxins by active transport mechanism mediated by P-glycoprotein.
+- Astrocytes are necessary to create the BBB.
+- BBB occurs along all capillaries and consists of tight junctions around capillaries that don't exist in normal circulation.
+- Endothelial cells restrict the diffusion of microscopic objects (e.g. bacteria) and large or hydrophilic molecules into the cerebrospinal
+fluid (CSF) while allowing the diffusion of small hydrophilic molecules (O2, CO2, hormones).
+- Cells of the barrier actively transport metabolic products such as glucose across the barrier with specific proteins.
